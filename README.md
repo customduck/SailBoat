@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v11.6.4-blue.svg?logo=npm" alt="shield.png">
+    <img src="https://img.shields.io/badge/discord.js-v12.2.0-blue.svg?logo=npm" alt="shield.png">
   </a>
 
 ## About
