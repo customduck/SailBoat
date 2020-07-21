@@ -1,4 +1,5 @@
-[![Image from Gyazo](https://i.gyazo.com/5922bcc49b1f7dbc9bb660a8ad997cf8.png)](https://gyazo.com/5922bcc49b1f7dbc9bb660a8ad997cf8)
+<h1 align=center>Discord Bot RowBoat</h1>
+
 <h3 align=center>A multipurpose bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 
@@ -52,3 +53,4 @@ Need help? Join RowBoats Support Server [here](https://discord.gg/a674E8H).
 * **Avvoid** - *Secondary Developer*
 DME.md#join-the-community)
 * **Nettles** - *Ideas and help* 
+[![Image from Gyazo](https://i.gyazo.com/fee0a599e53949e3ec5e592ec012672d.png)](https://gyazo.com/fee0a599e53949e3ec5e592ec012672d)
