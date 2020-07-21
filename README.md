@@ -1,6 +1,6 @@
 <h1>RowBoat</h1>
 
-<div align=center>
+<div>
 
   <a href="https://discord.gg/a674E8H">
     <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
@@ -12,7 +12,7 @@
 
 </div>
 
-<p align="center">
+<p>
   •<a href="#about">About</a>
   •<a href="#features">Features</a>
   •<a href="#links"links>Links</a>
