@@ -10,16 +10,6 @@
     <img src="https://img.shields.io/badge/discord.js-v11.6.4-blue.svg?logo=npm" alt="shield.png">
   </a>
 
-</div>
-
-<p>
-  •<a href="#about">About</a>
-  •<a href="#features">Features</a>
-  •<a href="#links"links>Links</a>
-  •<a href="#developers/credits">Developers/Credits</a>
-
-</p>
-
 ## About
 
 RowBoat is a Multipurpose bot that suits all your needs. Rowboat has over 60+ variety of commands that will leave you speechless. Rowboat offers Moderation, Fun, Administration, Information commands to know more about people in your server and information about your server, and lastly, RowBoat guarantees you satisfaction. Invite RowBoat and sail into the open sea!
@@ -50,4 +40,3 @@ Need help? Join RowBoats Support Server [here](https://discord.gg/a674E8H).
 * **Avvoid** - *Secondary Developer*
 DME.md#join-the-community)
 * **Nettles** - *Ideas and help* 
-[![Image from Gyazo](https://i.gyazo.com/fee0a599e53949e3ec5e592ec012672d.png)](https://gyazo.com/fee0a599e53949e3ec5e592ec012672d)
