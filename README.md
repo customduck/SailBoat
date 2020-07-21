@@ -1,11 +1,4 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/sabattle/CalypsoBot"><img src="./data/images/Calypso_Title.png"></a>
-  <br>
-  RowBoat, A Multipurose Discord Bot!
-  <br>
-</h1>
-
+[![Image from Gyazo](https://i.gyazo.com/5922bcc49b1f7dbc9bb660a8ad997cf8.png)](https://gyazo.com/5922bcc49b1f7dbc9bb660a8ad997cf8)
 <h3 align=center>A multipurpose bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
 
 
@@ -22,10 +15,10 @@
 </div>
 
 <p align="center">
-  <a href="#about">About</a>
-  <a href="#features">Features</a>
-  <a href="#links"links>Links</a>
-  <a href="#developers/credits">Developers/Credits</a>
+  •<a href="#about">About</a>
+  •<a href="#features">Features</a>
+  •<a href="#links"links>Links</a>
+  •<a href="#developers/credits">Developers/Credits</a>
 
 </p>
 
