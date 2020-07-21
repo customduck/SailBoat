@@ -1,7 +1,4 @@
-<h1 align=center>Discord Bot RowBoat</h1>
-
-<h3 align=center>A multipurpose bot built with <a href=https://github.com/discordjs/discord.js>discord.js</a></h3>
-
+<h1>RowBoat</h1>
 
 <div align=center>
 
